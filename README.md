@@ -1,2 +1,1 @@
-# contact
-contact section of personal website
+verion 0 of personal site
